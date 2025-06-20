@@ -2,7 +2,7 @@
 
 A Passionate Full-Stack Web Developer & Designer, always exploring new technologies to build innovative, robust and scalable web & mobile applications. Currently Pursuing My B.Tech at SRKR Engineering College, in the stream of Computer Science & Design.
 
-## 🚀Know About Me
+## 🚀Know About Me!!
 
 - 💻 A Full-stack developer with a love for technology and creativity.💡
 - 🤖 AI/ML enthusiast & Tech enthusiast.
