@@ -5,7 +5,7 @@ A Passionate Full-Stack Web Developer & Designer, always exploring new technolog
 ## 🚀Know About Me!!
 
 - 💻 A Full-stack developer with a love for technology and creativity.💡
-- 🤖 AI/ML enthusiast & Tech enthusiast.
+- 🤖 AI/ML enthusiast & Tech explorer.
 - 🌍 Love working on real-world projects that blend design, development, and AI to create impactful solutions.
 - 🌱 Always learning and adapting to new challenges in the tech world.
 - 🤝 I enjoy collaborating with others and sharing knowledge to create a positive impact in the tech community.<br/>
