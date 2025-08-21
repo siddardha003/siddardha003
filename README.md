@@ -1,6 +1,6 @@
 # 👋 Heyy!! I'm Siddardha Karumuri
 
-A Passionate Full-Stack Web Developer & Designer, always exploring new technologies to build innovative, robust and scalable web & mobile applications. Currently Pursuing My B.Tech at SRKR Engineering College, in the stream of Computer Science & Design.
+A Passionate Full-Stack Web Developer & Designer with a keen interest in AI & ML, always exploring new technologies to build innovative, robust and scalable web & mobile applications. Currently Pursuing My B.Tech at SRKR Engineering College, in the stream of Computer Science & Design.
 
 ## 🚀Know About Me!!
 
