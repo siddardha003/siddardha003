@@ -1,6 +1,6 @@
 # 👋 Heyy!! I'm Siddardha Karumuri
 
-A Passionate Full-Stack Web Developer & Designer with a keen interest in AI & ML, always exploring new technologies to build innovative, robust and scalable web & mobile applications. Currently Pursuing My B.Tech at SRKR Engineering College, in the stream of Computer Science & Design.
+A Passionate Full-Stack Web Developer & Designer with a strong interest in AI & ML, constantly exploring new technologies to build innovative, robust, and scalable web and mobile applications. Completed B.Tech coursework in Computer Science & Design at SRKR Engineering College with a CGPA of 9.0/10, and currently awaiting graduation.
 
 ## 🚀Know About Me!!
 
@@ -12,14 +12,14 @@ A Passionate Full-Stack Web Developer & Designer with a keen interest in AI & ML
 
 ## 🎯 Currently focused on <br/>
 
-   👨‍💻Web & App Development | 🤖AI/ML | 🎨UI/UX Design | 🔥Exploring the latest tech trends<br/>
+   👨‍💻Web & App Development | 🤖AI/ML | 🔥Exploring the latest tech trends<br/>
 
 
 ## 💻 Tech Stack
 
 ### Web & App Technologies
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,react,nodejs,expressjs,nextjs,vue,ts,tailwind,flask" height="40" alt="frontend stack"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,react,nodejs,expressjs,ts,tailwind,nextjs,angular,spring" height="40" alt="frontend stack"/>
 </div>
 
 ### Database Technologies
@@ -29,17 +29,12 @@ A Passionate Full-Stack Web Developer & Designer with a keen interest in AI & ML
 
 ### Tools & Technologies
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,notion,netlify,vscode," height="40" alt="tools stack"/>
-</div>
-
-### Design
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=figma,threejs,webflow" height="40" alt="backend stack"/>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,notion,netlify,vscode,figma" height="40" alt="tools stack"/>
 </div>
 
 ### Programming Languages
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=c,py,java,js" height="40" alt="frontend stack"/>
+  <img src="https://skillicons.dev/icons?i=c,java,py" height="40" alt="frontend stack"/>
 </div>
 
 
